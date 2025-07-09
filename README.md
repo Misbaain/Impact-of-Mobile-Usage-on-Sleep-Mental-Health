@@ -54,4 +54,4 @@ This Power BI dashboard explores the correlation between mobile screen time, sle
 
 ### 5. **Screenshot**
 
-![Dashboard Preview](Dashboard%20pic.png)
+![Dashboard Preview](https://github.com/Misbaain/Impact-of-Mobile-Usage-on-Sleep-Mental-Health/blob/main/Dashboard%20pic.png)
